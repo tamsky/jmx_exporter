@@ -12,6 +12,8 @@ It can also be run as a Java Agent, exposing an HTTP server and scraping the loc
 `mvn package` to build.
 See `./run_sample_httpserver.sh` for a sample script that runs the httpserver against itself.
 
+Binaries are [available from maven.org](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22io.prometheus.jmx%22).
+
 To run as a javaagent:
 
 ```
